@@ -1,4 +1,5 @@
 <?php
+    echo 'ceshi tag 1.0';
     echo 'mast update index bug';
     echo 'xh-dev write';
     echo '133';
