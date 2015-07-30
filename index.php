@@ -1,5 +1,4 @@
 <?php
-    echo 'mast update index bug';
-    echo 'jjsdhfksjdfksdj';
+    echo 'ceshi tage v1.2';
     echo 'dev继续开发新功能 gogogo';
     echo 'test tag';
